@@ -1,0 +1,81 @@
+*
+{
+    padding: 0px;
+    margin: 0px;
+}
+.background
+{
+    border: solid 5px ;
+    height: 750px;
+    width: 1450px;
+    background-image: url(./images/new_homepage_background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+    
+}
+b{
+    color: white;
+    font-size: xx-large;
+}
+li
+{
+    display: inline-block;
+    color: white;
+    right: auto;
+    padding-left: 25px;
+    margin-left: 20px;
+}
+.list
+{
+    padding-top: 25px;
+}
+
+.Surpriselogo
+{
+    color: white;
+    font-size: 50px;
+    margin-left: 100px;
+}
+
+
+.apple
+{
+    width: 200px;
+    padding-left: 10PX;
+    padding-top: 10px;
+}
+.google
+{
+    width: 200px;   
+    display: block;
+    padding-left: 10PX;
+}
+
+.block
+{
+ display:flex;
+ 
+}
+
+
+.block1
+{
+    color: white;
+    display: flex;
+   justify-content: space-evenly;
+    padding-left: 60px;
+    padding-top: 100px;
+    
+}
+
+.img1
+{
+    height: 40px;
+}
+
+
+.move
+{
+    padding-left: 40px;
+}
